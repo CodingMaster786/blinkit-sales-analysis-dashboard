@@ -4,7 +4,7 @@
 This project is a Power BI dashboard developed to analyze Blinkit sales performance across different outlet locations, outlet sizes, item categories, and establishment years.
 
 The dashboard helps stakeholders understand sales trends, customer preferences, and outlet performance to support business decision-making.
----
+
 
 ## Dashboard Preview
 
